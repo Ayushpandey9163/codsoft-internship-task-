@@ -100,4 +100,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Contact
 For any questions or suggestions, please open an issue or contact me at ayushpandey9163@gmail.com
 
-Replace `[your-email@example.com]` with your actual contact email or preferred method of contact. This README provides a clear structure for each project, including descriptions, features, and instructions on how to compile and run each program.
